@@ -1,8 +1,8 @@
 {
-    "url": "http://lamthanh.great-site.net/thanh.yaml",
+    "url": "https://thanhlam-attt.github.io/Swagger-XSS/thanh.yaml",
     "urls": [
         {
-            "url": "http://lamthanh.great-site.net/thanh.yaml",
+            "url": "https://thanhlam-attt.github.io/Swagger-XSS/thanh.yaml",
             "name": "Foo"
         }
     ]
